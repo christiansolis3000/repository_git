@@ -37,3 +37,8 @@ ini_set ('error_reporting', E_ALL);
 
 // There is no php closing tag in this file,
 // it is intentional because it prevents trailing whitespace problems!
+
+
+
+//This is a test file 08-01-2015
+
