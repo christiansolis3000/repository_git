@@ -673,11 +673,5 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
 
-attempt(1)-08-01-2015
-attempt(2)-08-01-2015
-attempt(3)-09-01-2015
-attempt(4)-09-01-2015
-attempt(5)-09-01-2015
-attempt(6)-09-01-2015
-attempt(7)-09-01-2015
-attempt(8)-09-01-2015
+attempt(9)-08-01-2015...........
+
