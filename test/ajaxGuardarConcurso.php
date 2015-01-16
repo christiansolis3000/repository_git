@@ -1,4 +1,5 @@
 <?php 
+echo "modifying file";
 include ("db.php");
 
 include ("inc.functions.php");
