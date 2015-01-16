@@ -1,7 +1,10 @@
 <?php 
 
+
 echo "adding new line from master";
 echo "nueva linea #1";
+echo "modifying file";
+echo "modificacion #1";
 include ("db.php");
 
 include ("inc.functions.php");
